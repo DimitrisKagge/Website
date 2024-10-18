@@ -1,0 +1,39 @@
+/* BEGIN CODE HERE */
+.col-sm {
+    padding: 10px; /* Add padding for better appearance */
+    border: 1px solid #000; /* Add border to create visible box */
+    background-color: #fff; /* Set background color */
+    color: #000; /* Set text color */
+}
+
+.frame4 {
+    width: 1200px;
+    margin: 0 auto;
+}
+.frame5 {
+    max-width: 1200px; /* Set max-width to maintain consistency */
+    margin: 0 auto; /* Center align horizontally */
+}
+#productionYearLabel {
+    text-align: right; /* Align the label text to the right */
+    padding-right: 15px; /* Add some right padding for better alignment */
+}
+
+.footer2 {
+    height: 100px;
+    background-color: #f0f0f0;
+    text-align: center;
+    line-height: 100px;
+}
+<<<<<<< HEAD
+
+input.form-control-sm {
+    width: auto;
+}
+
+.input-height {
+    height: 2.5rem; 
+}
+=======
+>>>>>>> 94638b00be0349267de365b3048c41b457169f1e
+/* END CODE HERE */
